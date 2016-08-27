@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Facebook/Facebook.iml" filepath="$PROJECT_DIR$/Facebook/Facebook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generic/Generic.iml" filepath="$PROJECT_DIR$/Generic/Generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Huffington/Huffington.iml" filepath="$PROJECT_DIR$/Huffington/Huffington.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TDbank/TDbank.iml" filepath="$PROJECT_DIR$/TDbank/TDbank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TMGHealth/TMGHealth.iml" filepath="$PROJECT_DIR$/TMGHealth/TMGHealth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eBay/eBay.iml" filepath="$PROJECT_DIR$/eBay/eBay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webappstructure.iml" filepath="$PROJECT_DIR$/webappstructure.iml" />
+    </modules>
+  </component>
+</project>

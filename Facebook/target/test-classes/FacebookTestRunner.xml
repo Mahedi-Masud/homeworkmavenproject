@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Facebook" parallel="tests">
+
+    <parameter name="useCloudEnv" value="false"/>
+    <parameter name="userName" value="mahed"/>
+    <parameter name="key" value=""/>
+    <parameter name="os" value="windows"/>
+    <parameter name="browser" value="chrome"/>
+    <parameter name="browserVersion" value="48"/>
+    <parameter name="url" value="http://www.facebook.com/"/>
+
+    <test name = "FBlogin">
+        <classes>
+            <class name="login.FBlogin"/>
+        </classes>
+    </test>
+
+</suite>
