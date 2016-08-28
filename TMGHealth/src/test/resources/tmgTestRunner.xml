@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="TMGHealth" parallel="tests">
+
+    <parameter name="useCloudEnv" value="false"/>
+    <parameter name="userName" value="mahed"/>
+    <parameter name="key" value=""/>
+    <parameter name="os" value="windows"/>
+    <parameter name="browser" value="chrome"/>
+    <parameter name="browserVersion" value="48"/>
+    <parameter name="url" value="http://www.tmghealth.com/"/>
+
+    <test name = "tmghealth">
+        <classes>
+            <class name="home.page.tmghealth"/>
+        </classes>
+    </test>
+
+</suite>
